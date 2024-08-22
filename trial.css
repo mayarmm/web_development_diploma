@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    font-family: "Open Sans", sans-serif;
+}
+.div1{
+  
+    height:700px;
+    width: 700px;
+}
+
+.div2{
+ 
+    height: 700px;
+    width: 700px;
+    padding-top: 190px;
+}
+.container{
+    display: flex;
+}
+img{
+    width: 200px;
+}
+#p1,#p2 {
+    color: rgb(95, 163, 151); 
+    font-size: 30px;
+
+}
+button{
+    background-color: black;
+    color: rgb(95, 163, 151);
+    border-color: rgb(95, 163, 151);
+}
+img{
+    padding: 10px;
+    height: 600px;
+    width: 500px;
+}
+#web{
+    color: white;
+    font-size: 30px;
+}
+#lorem{
+    color: white;
+    font-size: 15px;
+}
+
+#p1, #web, #p2 {
+    margin: 0; 
+    padding: 0; 
+    line-height: 1.2; 
+}
